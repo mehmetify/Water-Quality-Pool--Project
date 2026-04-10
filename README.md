@@ -18,7 +18,7 @@ Sonuç: Hiçbiri değilse -> "Riskli/Atık Su".
 💻 Kurulum ve Çalıştırma
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 Repoyu Klonlayın:
-git clone [https://github.com/KULLANICI_ADINIZ/Water-Quality-Project.git](https://github.com/KULLANICI_ADINIZ/Water-Quality-Project.git)
+git clone [https://github.com/mehmetify/Water-Quality-Project.git](https://github.com/KULLANICI_ADINIZ/Water-Quality-Project.git)
 cd Water-Quality-Project
 
 
