@@ -13,11 +13,7 @@ Sistem numuneyi doğrusal olmayan bir mantıkla değerlendirir:
 Aşama: Numune, WHO standartlarına göre içilebilir mi? -> Evet ise "İçilebilir".
 Aşama: Hayır ise, Havuz Suyu kimyasal dengesine uygun mu? -> Evet ise "Yüzülebilir".
 Sonuç: Hiçbiri değilse -> "Riskli/Atık Su".
-📊 Ekran Görüntüleri
-Analiz Ekranı
-Veri Grafikleri
-(Buraya uygulamanın ekran görüntüsünü ekleyebilirsiniz)
-(Buraya grafik ekran görüntüsünü ekleyebilirsiniz)
+
 
 💻 Kurulum ve Çalıştırma
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
